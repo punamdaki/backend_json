@@ -1,0 +1,45 @@
+{
+  "login": [
+    {
+      "name": "abc",
+      "password": "abc@123"
+    }
+  ],
+  "restaurant-app": [
+    {
+      "id": 1,
+      "name": "Pizza Studio",
+      "address": "Junagadh",
+      "rating": "4.5",
+      "email": "pizzastudio@test.com"
+    },
+    {
+      "name": "Patel Restaurant ddddddd",
+      "email": "patelr@test.com",
+      "address": "Junagadh",
+      "rating": "4.5",
+      "id": 3
+    },
+    {
+      "name": "Pizza pppppp",
+      "email": "pizza@test.com",
+      "address": "Rajkot",
+      "rating": "5.5",
+      "id": 5
+    },
+    {
+      "name": "avani resort",
+      "address": "amd",
+      "rating": "3",
+      "email": null,
+      "id": 6
+    },
+    {
+      "name": "pizza",
+      "address": "rajkot",
+      "rating": "4.5",
+      "email": null,
+      "id": 7
+    }
+  ]
+}
